@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "754558261114",
+    "project_id": "search-4e7b2",
+    "storage_bucket": "search-4e7b2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754558261114:android:4ed6c91655e14e1e5428c3",
+        "android_client_info": {
+          "package_name": "com.example.firebase_search_crud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtPCOVzNEcGUatQjeWqXSA6CVzFZ9v798"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
